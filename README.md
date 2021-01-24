@@ -1,1 +1,1 @@
-这是一个基于SpringBoot+Vue的前后端开发项目，后端SpringBoot+SpringDataJPA+EasyExcel，前端Vue+axios+ElementUI。能够实现分页查询、模糊查询、动态查询、分类查询、添加信息、删除信息、修改信息、备份功能、使用EasyExcel将数据库数据导出为Excel，或者根据模板将Excel中的内容导入到数据库中。关于本项目的详细说明，请移步CSDN：
+这是一个基于SpringBoot+Vue的前后端开发项目，后端SpringBoot+SpringDataJPA+EasyExcel，前端Vue+axios+ElementUI。能够实现分页查询、模糊查询、动态查询、分类查询、添加信息、删除信息、修改信息、备份功能、使用EasyExcel将数据库数据导出为Excel，或者根据模板将Excel中的内容导入到数据库中。关于本项目的详细说明，请移步CSDN：https://blog.csdn.net/qq_46331393/article/details/113073818
